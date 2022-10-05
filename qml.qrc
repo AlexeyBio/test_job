@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Timeline.qml</file>
+        <file>MeasuringStick.qml</file>
+        <file>Helper.js</file>
+        <file>LabelView.qml</file>
+    </qresource>
+</RCC>
